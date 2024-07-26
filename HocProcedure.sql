@@ -1,5 +1,6 @@
 ﻿-- tao procedure
-create procedure  sp_HelloWord -- ko co tham so
+go
+create procedure sp_HelloWord -- ko co tham so
 as begin
  -- noi dung cua sp
  print 'Hello world'
